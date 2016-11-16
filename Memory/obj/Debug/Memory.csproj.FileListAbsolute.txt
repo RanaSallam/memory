@@ -1,0 +1,9 @@
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\bin\Debug\Memory.exe
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\bin\Debug\Memory.pdb
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\obj\Debug\Memory.Form1.resources
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\obj\Debug\Memory.exe
+c:\users\ronia\documents\visual studio 2013\Projects\Memory\Memory\obj\Debug\Memory.pdb
